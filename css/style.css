@@ -1,0 +1,140 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* nav bar*/
+.search-button{
+    color: black;
+}
+
+/* carousel */
+.myMargin{
+    
+padding: 25px;
+}
+
+.img{
+    width: 100em;
+    height: 30em;
+}
+
+/* heading */
+
+.heading{
+    text-align: center;
+}
+
+/* introduction abt kerala */
+
+.intro{
+    padding: 10px;
+}
+
+/*specialities of kerala*/
+
+.speciality img{
+    padding:5px;
+
+}
+
+.speciality2 img{
+    padding: 8px;
+    width:50%;
+}
+
+.speciality3 img{
+    
+    padding-left: 15%;
+    padding:5px;
+    width:50%;
+}
+
+/* Districts page  */
+/* Main heading */
+.district-heading{
+
+    text-align: center;
+    background-color: lightseagreen;
+}
+
+/* history districts */
+.history{
+    text-align: justify;
+    line-height: 2em;
+    padding-left: 1.5em;
+}
+
+/*district headings*/
+.head-district{
+    
+}
+
+
+ /*login form*/
+ .login-form{
+     padding-top: 5em;
+     padding-left: 30em;
+ }
+
+.login-button{
+    text-align: center;
+}
+
+/* sign up page*/
+.signup-color{
+    
+}
+
+.body-bg{
+     background-position: center;
+}
+
+
+
+/*footer of signup& login*/
+.register{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    height: 4em;
+    
+}
+
+/* best places heading*/
+.best-places{
+    text-align: center;
+}
+
+/*trivandrum*/
+/*history area */
+.trivandrum{
+    width: 40em;
+    height: 100%;
+    padding-top: 25%;
+    padding-right: 2em;
+}
+
+.trivan-text{
+    text-align: justify;
+    line-height: 3em;
+}
+
+.trivandrum-foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 0%;
+    height: 4em;
+}
+    
+
+/*kollam*/
+/*intro area*/
+.kollam-abt-img{
+    width:45em;
+    height: 100%;
+    padding-top: 10%;
+    padding-right: 8em
+}
